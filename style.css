@@ -22,3 +22,13 @@ canvas {
 svg#snowflake {
   display: none;
 }
+
+/* Audio player styling */
+#xmasMusic {
+  position: fixed;
+  bottom: 20px;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 1000;
+  outline: none;
+}
